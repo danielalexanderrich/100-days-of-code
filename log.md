@@ -28,3 +28,9 @@ Also I refreshed myself a bit on what ridge and lasso regression is, I think I'l
 
 **Link(s) to work**: [TKInter](https://docs.python.org/3/library/tkinter.html#a-simple-hello-world-program)
 
+### Day 5: 11/27/2019
+
+Set up a new theme for jupyter notebooks and got to work on building a support vector classifier for credit card fraud. Downloaded a data set from kaggle, see link. Read about complexity for SVM and LinearSVM, and about convergence for linear optimization models (namely the LinearSVM itself). Will resume work on this later (today?) after I eat and take care of administrative teaching stuff.
+
+**Link(s) to work**: [Kaggle Fraud data set](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
