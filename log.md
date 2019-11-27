@@ -20,3 +20,11 @@ Continued fcc algo work. Struggling with Pairwise, but excited to progress. I wa
 
 **Link(s) to work**: [Pairwise](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise)
 
+
+### Day 4: 11/26/2019
+
+Did not get to coding before 11 pm. Could not find motivation to continue freecodecamp today so I did a little tkinter hello world thing and changed the buttons around and 2 project euler problems just to stay in the habit of programming. PE doesn't like the solutions to be published so I'm gonna keep those to myself.
+Also I refreshed myself a bit on what ridge and lasso regression is, I think I'll start doing some data sciency projects tomorrow. I want to do DS or DE but I'm having fun just programming little algorithmic things at the moment.
+
+**Link(s) to work**: [TKInter](https://docs.python.org/3/library/tkinter.html#a-simple-hello-world-program)
+
