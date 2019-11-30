@@ -34,3 +34,9 @@ Set up a new theme for jupyter notebooks and got to work on building a support v
 
 **Link(s) to work**: [Kaggle Fraud data set](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
+### Day 6: 11/29/2019
+
+Ran PCA on the credit card fraud data. Used seaborn to make a fairly useless scatterplot I think. Beats doin nothin for the day
+
+**Link(s) to work**: [PCA and scatterplot tutorial](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
+
