@@ -40,3 +40,10 @@ Ran PCA on the credit card fraud data. Used seaborn to make a fairly useless sca
 
 **Link(s) to work**: [PCA and scatterplot tutorial](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 
+### Day 7: 11/30/2019
+
+Implemented bubble sort and selection sort from the freecodecamp algorithm exercises
+
+**Link(s) to work**: [Bubble sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
+[Selection Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-selection-sort)
+
