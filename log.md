@@ -47,3 +47,7 @@ Implemented bubble sort and selection sort from the freecodecamp algorithm exerc
 **Link(s) to work**: [Bubble sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
 [Selection Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-selection-sort)
 
+### Day 8: 12/1/2019
+Didn't program today, but I did find a DS&A book that I read for about an hour. Gonna count it because my CS skills in general need to be improved (might be cheating who cares)
+**Link(s) to work**: [Open Data Structures](http://opendatastructures.org/ods-python.pdf)
+
